@@ -5,15 +5,15 @@
     
   body {  
     font-family: Arial;  
-    padding: 11px;  
-    background: grey;  
+    padding: 10px;  
+    background: pink;  
   }  
     
   /* Header/Blog Title */  
   .header {  
     padding: 30px;  
     text-align: center;  
-    background: #8B0000;  
+    background: #6f2232;  
   }  
     
   .header h1 {  
@@ -23,14 +23,14 @@
   /* Style the top navigation bar */  
   .topnav {  
     overflow: hidden;  
-    background-color: black;  
+    background-color: #501b1d;  
   }  
     
   /* Style the topnav links */  
   .topnav a {  
     float: left;  
     display: block;  
-    color: #f2f2f2;  
+    color: #adadad;  
     text-align: center;  
     padding: 14px 16px;  
     text-decoration: none;  
@@ -38,8 +38,8 @@
     
   /* Change color on hover */  
   .topnav a:hover {  
-    background-color: #ddd;  
-    color: #757575;  
+    background-color: #83677b;  
+    color: #adadad;  
   }  
     
   /* Create two unequal columns that floats next to each other */  
@@ -53,21 +53,21 @@
   .rightcolumn {  
     float: left;  
     width: 25%;  
-    background-color: grey;  
+    background-color: #501b1d;  
     padding-left: 20px;  
       
   }  
     
   /* Fake image */  
   .fakeimg {  
-    background-color: #aaa;  
+    background-color: #501b1d;  
     width: 100%;  
     padding: 20px;  
   }  
     
   /* Add a card effect for articles */  
   .card {  
-    background-color: #E5E4E2;  
+    background-color: papayawhip;  
     padding: 20px;  
     margin-top: 20px;  
   }  
@@ -83,7 +83,7 @@
   .footer {  
     padding: 20px;  
     text-align: center;  
-    background: #ddd;  
+    background: papayawhip;  
     margin-top: 20px;  
   }  
   
